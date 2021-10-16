@@ -53,7 +53,7 @@ img {
   border-bottom: 1px solid #ececec;
 }
 
-.container-header {
+.container__header {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -540,7 +540,7 @@ textarea {
   text-align: left;
 }
 
-.work {
+.section--padding {
   padding-top: 0;
 }
 
@@ -553,7 +553,7 @@ textarea {
   margin-bottom: 50px;
 }
 
-.work__list {
+.work {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
